@@ -67,7 +67,7 @@ a {
 }
 
 a:hover {
-  color: #078f83;
+  color: #1bdaca;
   text-decoration: underline;
 }
 
@@ -2335,7 +2335,7 @@ a:hover.back-to-top {
   width: 98%;
 }
 
-.img-car:hover,
-.img-isometric:hover {
+.img-car,
+.img-isometric {
   filter: hue-rotate(320deg);
 }
